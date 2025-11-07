@@ -1,0 +1,3 @@
+.hero {
+  background: url('path-to-image.jpg') centre/cover no-repeat var(--primary-colour);
+}
